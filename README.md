@@ -1,5 +1,5 @@
 # residentevil
-
+Projet perso sur l'univers de resident evil, créer avec vuejs et Mon API rest de resident evil.
 ## Project setup
 ```
 npm install
